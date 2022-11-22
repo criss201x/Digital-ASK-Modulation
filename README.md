@@ -1,2 +1,2 @@
 # Digital-ASK-Modulation
-Practical information theory IIIi
+Practical information theory III
